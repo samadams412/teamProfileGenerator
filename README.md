@@ -34,7 +34,7 @@ _________________________________
 
 ## Walkthrough Video:
 
-- [Application Functionality Walkthrough]
+- [Application Functionality Walkthrough](https://watch.screencastify.com/v/CitXZV2ZszurUpJYUCCP)
 
   
 
