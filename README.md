@@ -32,8 +32,6 @@ _________________________________
 
 ## Demo
 
-## Walkthrough Video:
-
 - [Application Functionality Walkthrough](https://watch.screencastify.com/v/CitXZV2ZszurUpJYUCCP)
 
 
