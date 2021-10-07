@@ -34,7 +34,7 @@ _________________________________
 
 ## Walkthrough Video:
 
-- [Application Functionality Walkthrough](https://youtu.be/U77DcU5zm8g)
+- [Application Functionality Walkthrough]
 
   
 
