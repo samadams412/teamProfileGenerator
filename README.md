@@ -23,7 +23,7 @@ Terminal application using Node.js that dynamically generates a team profile usi
 
 _________________________________
   
-## Instructions
+## Installation
   
 Have jest and inquirer packages installed
   
@@ -36,11 +36,4 @@ _________________________________
 
 - [Application Functionality Walkthrough](https://watch.screencastify.com/v/CitXZV2ZszurUpJYUCCP)
 
-  
 
-  
-_________________________________
-  
-### License
-  
-This application is [licensed](https://opensource.org/licenses/MIT) under the MIT License
