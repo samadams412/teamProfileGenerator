@@ -5,8 +5,7 @@
 ## Table Of Contents
 1.  [Description](#description)
 2.  [Installation](#installation) 
-3.  [Collaborating](#collaborating)
-4.  [Demo](#demo)
+3.  [Demo](#demo)
       
 _________________________________
   
